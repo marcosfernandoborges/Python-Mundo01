@@ -1,0 +1,6 @@
+print('------- DESAFIO 03 ------- ')
+print('')
+numero01=input('DIGITE O PRIMEIRO VALOR: ')
+numero02=input('DIGITE O SEGUNDO VALOR: ')
+soma=input(numero01 + numero02)
+print('A SOMA É: ' , soma)
